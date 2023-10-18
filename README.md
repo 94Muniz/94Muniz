@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jhone Muniz
+- 👋 Hi, I’m @94Muniz
 - 👀 I’m interested in front-end
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on some company as an intern
