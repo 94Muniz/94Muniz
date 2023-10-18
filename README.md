@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @94Muniz
 - 👀 I’m interested in Front-End
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some company as an intern
 - 📫 How to reach me ...
 
 <!---
