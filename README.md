@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @94Muniz
-- 👀 I’m interested in Front-End
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Jhone Muniz
+- 👀 I’m interested in front-end
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on some company as an intern
-- 📫 How to reach me via Whatsapp
+- 📫 How to reach me e-mail or whatsapp
 
 <!---
 94Muniz/94Muniz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
